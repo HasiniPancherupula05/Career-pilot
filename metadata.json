@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot",
+  "description": "Job & Application Management REST API full-stack web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
